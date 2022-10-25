@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cifrado Cesar</title>
+    <link rel="stylesheet" href="/estilos.css">
+    <script src="/main.js" type="text/javascript" defer></script>
+</head>
+<body>
+    <main>
+        <h1>Cifrador Cesar</h1>
+        <form id="cifrador" autocomplete="off">
+            <input type="text" id="inputOriginal" spellcheck="false" placeholder="Ingrese el texto a cifrar" name="text">
+            <div id="resultado"></div>
+            <div class="rango">
+                <input type="range" id="rango" value="10" min="1" max="20" oninput="this.nextElementSibling.value = this.value">
+                <output>10</output>
+            </div>
+        </form>
+    </main>
+</body>
+</html>
