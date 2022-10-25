@@ -11,7 +11,7 @@ Este trabajo fue realizado para practicar HTML, CSS y Javascript, y debido a mi 
 
 ## Screenshots
 
-<img src="https://i.ibb.co/JKSzBmg/imagen.jpg" alt="imagen" border="0">
+<img src="https://i.ibb.co/5nMFfz9/cifrador.jpg" alt="cifrador" border="0">
 
 ## 🛠 Skills
 Javascript, HTML, CSS...
